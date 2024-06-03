@@ -16,7 +16,7 @@
 
 ### [Chapter.3 프로세스와 스레드](./chap.3.md)
 
-### Chapter.4 CPU 스케줄링
+### [Chapter.4 CPU 스케줄링](./chap.4.md)
 
 01 스케줄링의 개요
 02 스케줄링 시 고려 사항
