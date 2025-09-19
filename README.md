@@ -1,8 +1,5 @@
 # [쉽게 배우는 운영체제](https://www.yes24.com/Product/Goods/116977423) 스터디
 
-<br />
-
-![cover](https://image.yes24.com/goods/116977423/LG)
 
 <br />
 
